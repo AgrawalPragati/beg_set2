@@ -4,7 +4,7 @@ void main()
 {
 	int n,temp,p,a,b;
 	scanf("%d%d",&a,&b);
-	for(n=a;n<=b;n++)
+	for(n>a;n<b;n++)
 	{
 	temp=n;
 	p=n;
